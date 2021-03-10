@@ -24,6 +24,10 @@ services:
 docker-compose run --rm openvpn ovpn_genconfig -u udp://VPN.SERVERNAME.COM
 docker-compose run --rm openvpn ovpn_initpki
 ```
+* If no ask for certificate password add parameter nopass
+```bash
+docker-compose run --rm openvpn ovpn_initpki nopass
+```
 
 * Fix ownership (depending on how to handle your backups, this may not be needed)
 
