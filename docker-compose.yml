@@ -2,7 +2,7 @@ version: '3'
 services:
   openvpn:
     container_name: openvpn
-    image: Smolinec/docker-openvpn-1
+    image: smolinec/docker-openvpn
     restart: unless-stopped
     privileged: true
     ports:
