@@ -14,8 +14,8 @@ a corresponding [Digital Ocean Community Tutorial](http://bit.ly/1AGUZkq).
 
 #### Upstream Links
 
-* Docker Registry @ [kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn/)
-* GitHub @ [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn)
+* Docker Registry @ [smolinec/docker-openvpn](https://hub.docker.com/r/smolinec/docker-openvpn/)
+* GitHub @ [Smolinec/docker-openvpn-1](https://github.com/Smolinec/docker-openvpn-1)
 
 ## Quick Start
 
